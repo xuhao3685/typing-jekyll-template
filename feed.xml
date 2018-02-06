@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <!-- Include Data Base  -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>Typing</title>
+    <description>Typing - A Theme for Jekyll</description>
+    <link>https://williamcanin.me/typing-jekyll-template/</link>
+    <atom:link href="https://williamcanin.me/typing-jekyll-template/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Feb 2018 15:59:57 -0200</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 15:59:57 -0200</lastBuildDate>
+    <generator>Jekyll v3.7.2</generator>
+    
+  </channel>
+</rss>
