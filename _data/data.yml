@@ -25,7 +25,7 @@ website:
   # Config for Google Analytics.  Note: Must have Google Analytics Tracking ID.
   google:
     analytics:
-      id: # tracking id, e.g. "UA-000000-01"
+      id: "UA-119158664-1"# tracking id, e.g. "UA-000000-01"
 # Sidebar
   sidebar:
     avatar: typing.svg
@@ -67,7 +67,7 @@ website:
         title: "Leave a comment on this post"
 # Contact
     contact:
-      language: "pt-BR"
+      language: "en-US"
       placeholder:
         name: "Your full name"
         subject: "Subject matter"
@@ -91,31 +91,23 @@ website:
     message: "Simplicity is fashionable."
 # User data
 userdata:
-  email: william.costa.canin@gmail.com # E.g: youremail@domain.com
-  twitter: # E.g: "@my_twitter"
+  email: "xuhao3685@gmail.com" # E.g: youremail@domain.com
+  twitter:# E.g: "@my_twitter"
   disqus:
-    username: # E.g: myuser
+    username: "xuhao3685"# E.g: myuser
   # You can add at most 5 social. If you do not want 5, you can remove the block containing: title, id, icon, url.
   socials:
     title: Follow Me!
     links:
       - title: GitHub
-        id: github
+        id: xuhao3685
         icon: fa-github
-        url: https://github.com
+        url: https://github.com/xuhao3685
 
       - title: Twitter
-        id: twitter
+        id: xuhao3685
         icon: fa-twitter
-        url: https://twitter.com
+        url: https://twitter.com/xuhao3685
 
-      - title: Google Plus
-        id: gplus
-        icon: fa-google-plus
-        url: https://plus.google.com
-
-      - title: LinkedIn
-        id: linkedin
-        icon: fa-linkedin
-        url: https://linkedin.com
+     
 ### END Config
